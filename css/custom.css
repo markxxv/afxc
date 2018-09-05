@@ -1,0 +1,31 @@
+/**
+* Admin Bar
+**/
+
+#wp-admin-bar-wp-logo {
+	display: none;
+}
+
+#wp-admin-bar-site-name .ab-item:before {
+	content: "\f111"!important;
+	color: #1abc9c;
+}
+
+#wp-admin-bar-site-name,
+#wp-admin-bar-customize {
+	width: 33px;
+	overflow: hidden;
+}
+
+#wpadminbar,
+#adminmenu, 
+#adminmenu 
+.wp-submenu, 
+#adminmenuback, 
+#adminmenuwrap {
+	background-color: #222!important;
+}
+
+#adminmenu div.wp-menu-image:before {
+	opacity: 0.5;
+}
