@@ -1,6 +1,6 @@
 # Agency FX Customizer
 
-Our Agency Custom Plugin Bundle
+Our Agency Custom Plugins Bundle
 
 Create:
 
