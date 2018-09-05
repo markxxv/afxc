@@ -1,4 +1,4 @@
-# afxc
+# Agency FX Customizer
 
 Our Agency Custom Plugin Bundle
 
@@ -9,7 +9,7 @@ Create:
 
 Auto insyalling plugins:
 
-* Regenerate Thumbnails'
-* Autoptimize'
-* Cyr to Lat'
-* Contact Form 7'
+* Regenerate Thumbnails
+* Autoptimize
+* Cyr to Lat
+* Contact Form 7
