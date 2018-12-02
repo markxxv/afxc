@@ -7,7 +7,7 @@ Create:
 * Custom Thumbnails 600 x 400 & 600 x 600
 * Adding path 'blog/' for all blog posts
 
-Auto insyalling plugins:
+Auto installing plugins:
 
 * Regenerate Thumbnails
 * Autoptimize
